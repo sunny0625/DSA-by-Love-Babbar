@@ -1,0 +1,10 @@
+{
+    "cSpell.customDictionaries": {
+        "custom-dictionary-folder-lovebabbar": {
+            "name": "custom-dictionary-folder-lovebabbar",
+            "path": "${workspaceFolder:LoveBabbar}/.cspell/custom-dictionary-folder-lovebabbar.txt",
+            "addWords": true,
+            "scope": "folder"
+        }
+    }
+}
