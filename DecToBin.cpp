@@ -16,5 +16,5 @@ int main()
         i++;
     }
     cout << "Answer: " << ans << endl;
-    return 0;
+    // return 0;
 }
