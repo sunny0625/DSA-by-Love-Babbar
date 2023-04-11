@@ -8,7 +8,7 @@ int main()
     cin >> first_input;
     cout << "Enter second input: " << endl;
     cin >> second_input;
-    cout << "Enter Operation" << endl;
+    cout << "Enter Operation: " << endl;
     cin >> operation;
     switch(operation)
     {
@@ -25,7 +25,7 @@ int main()
         cout << "Divide: " << first_input / second_input << endl;
         break;
         default:
-        cout << "Wrong input: " << endl;
+        cout << "Wrong input...!" << endl;
         break;
     }
     return 0;
